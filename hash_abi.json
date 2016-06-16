@@ -1,4 +1,12 @@
 {
+    "288f1750bba7bca3060677742bacabfec27836d7613b075aff6a60a1bcfc19b9": {
+        "abi": "arm64-v8a",
+        "vers": "2.1.7.1"
+    },
+    "9e0512b98e713103798b3891bbf4fa71c5bd57c4430ac2853549a17be778aaf5": {
+        "abi": "armeabi",
+        "vers": "2.1.7.1"
+    },
     "0a23c9b6355943c1a47aa32e458db46d5954997013eba3c4928556eb82195754": {
         "abi": "arm64-v8a",
         "vers": "2.1.4.1"
