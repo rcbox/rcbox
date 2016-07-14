@@ -53,10 +53,10 @@
     "b5039f6febc7d9981d509affb36910cb00827ded4b7204c9dc7a3aa9b615fc1d": {
         "vers": "2.0.3.1"
     },
-        "288f1750bba7bca3060677742bacabfec27836d7613b075aff6a60a1bcfc19b9": {
-        "vers": "2.1.7.1"
-    },
     "9e0512b98e713103798b3891bbf4fa71c5bd57c4430ac2853549a17be778aaf5": {
         "vers": "2.1.7.1"
+    },
+    "b6b3be08636d0fd56505587903e59a217c11c46bb4afa155319938b295fe0652": {
+        "vers": "2.1.8.1"
     }
 }
