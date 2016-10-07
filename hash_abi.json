@@ -118,5 +118,13 @@
     "dc11e0b46666b23c054ac72a16b2b0bce6f92cd09a9a18af7b90a13672373055": {
         "abi": "arm64-v8a",
         "vers": "2.1.9.1"
-    }
+    },
+    "92f3b96e4ad7aed75abbc832b1f0c83bf41360bf3972495e2cbae9bcb5e1dbff": {
+        "abi": "armeabi",
+        "vers": "2.1.10.3"
+    },
+    "0d060fb248ed819db32214f5f005f4b712f3d7606dd43af39d0bfd42d46f12d1": {
+        "abi": "arm64-v8a",
+        "vers": "2.1.10.3"
+    }    
 }
